@@ -42,7 +42,8 @@ chmod +x smollm.py
 ```
 If Ollama is not installed, the script will guide you through the installation process.
 After the model is downloaded, the script will prompt you to enter input text. Type your prompt and press Enter to see the model’s output.
-Notes on the Model
+
+## Notes on the Model
 The SmolLM 135M model is very small, intended purely as a demonstration of how to set up and run models with Ollama.
 Do not expect high-quality responses or any complex reasoning from it.
 This model is primarily for testing the installation and setup process, as well as for showcasing how one might integrate Ollama with Python. It is not intended for production use or practical applications.
