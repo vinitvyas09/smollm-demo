@@ -31,12 +31,12 @@ The `SmolLM` model is a minimal demonstration model (135M parameters) provided f
 
 ## Instructions
 
-1. Ensure you have Python 3 installed.
-2. Make the script executable:
-   ```bash
-   chmod +x smollm.py
-   ```
-Run the script:
+- Ensure you have Python 3 installed.
+- Make the script executable:
+```bash
+chmod +x smollm.py
+```
+- Run the script:
 ```bash
 ./smollm.py
 ```
